@@ -12,3 +12,4 @@ Level 00 ~ Level 05까지 푸는 것을 목표로 함
 - [[Level 0] 5페이지 문제 풀이](https://github.com/miinseo324/programmers_python/blob/e3c119ad8e4fc026ebb5af50ef34318fe5429ab6/level0_day5.ipynb)
 - [[Level 0] 6페이지 문제 풀이](https://github.com/miinseo324/programmers_python/blob/e7f67b78f889014fb1578ae1fe0fc84bc4d5d0d5/level0_day6.ipynb)
 - [[Level 0] 7페이지 문제 풀이](https://github.com/miinseo324/programmers_python/blob/d0bb24fecb2a36f7bf05b41322e2d70f877843bf/level0_day7.ipynb)
+- [[Level 0] 8페이지 문제 풀이](https://github.com/miinseo324/programmers_python/blob/11da706e8d5e0fb6251ec1e2b959ee604215f68c/level0_day8.ipynb)
